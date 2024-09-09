@@ -1,0 +1,9 @@
+#font-grey {
+    color: gray
+}
+
+.profile-section {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
